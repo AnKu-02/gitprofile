@@ -11,21 +11,8 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
+    instagram: 'ananya__k',
+    phone: '+49 17685982399',
     email: 'arifulalamszn@gmail.com',
   },
   resume: {
@@ -74,16 +61,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Stuttgart',
+      degree: 'Msc. Infotech',
+      from: '2022',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Dayananda Sagar College of Engineering',
+      degree: 'B.E. Electronics and Instrumentation',
+      from: '2018',
+      to: '2022',
     },
   ],
 
