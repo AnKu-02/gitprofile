@@ -17,7 +17,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1ErFfeKgECjL2gB4af2ckIl1Su4Jwp8wa/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1xPxRXkUabmT4Rg4khBZH0ckh_Eo_b19Z/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -26,9 +26,10 @@ const config = {
     'ROS2',
     'MATLAB',
     'LabVIEW',
-    'Git',
+    'Github',
     'Dart',
     'Flutter',
+    'Tensorflow',
   ],
   experiences: [
     {
